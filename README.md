@@ -3,6 +3,8 @@
 
 # PostgreSQL Database Management System
 
+[![Join the chat at https://gitter.im/wurde/postgres](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wurde/postgres?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This directory contains the source code distribution of the PostgreSQL
 database management system.
 
