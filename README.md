@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/wurde/postgres.svg?branch=master)](https://travis-ci.org/wurde/postgres)
 
-PostgreSQL Database Management System
-=====================================
+
+# PostgreSQL Database Management System
 
 This directory contains the source code distribution of the PostgreSQL
 database management system.
