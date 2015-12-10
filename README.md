@@ -1,5 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/wurde/postgres.svg?label=ready&title=Ready)](http://waffle.io/wurde/postgres)
 [![Build Status](https://travis-ci.org/wurde/postgres.svg?branch=master)](https://travis-ci.org/wurde/postgres)
-
 
 # PostgreSQL Database Management System
 
