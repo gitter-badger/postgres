@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wurde/postgres.svg?branch=master)](https://travis-ci.org/wurde/postgres)
+
 PostgreSQL Database Management System
 =====================================
 
